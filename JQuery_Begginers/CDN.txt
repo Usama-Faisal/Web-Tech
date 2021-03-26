@@ -1,0 +1,9 @@
+Default CDN:
+<script src='jquery-3.2.1.min.js'></script>
+
+
+Google CDN: 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+Microsoft CDN:
+<script src='http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.js'></script>
